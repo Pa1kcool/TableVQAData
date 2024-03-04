@@ -1,0 +1,1673 @@
+[
+  {
+    "id": "easy_questions",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<img>tableimage.png</img>"
+      },
+      {
+        "from": "user",
+        "value": "What is the dollar value (millions of dollars) of net income for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 3501.<box>(1261,134),(1651,196)</box>"
+      },
+      {
+        "from": "user",
+        "value": "What is the dollar value (millions of dollars) of net income for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2135.<box>(1651,134),(1901,196)</box>"
+      },
+      {
+        "from": "user",
+        "value": "What is the dollar value (millions of dollars) of net income for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2645.<box>(1901,134),(2155,196)</box>"
+      },
+      {
+        "from": "user",
+        "value": "What is the value of defined benefit and other postretirement plans adjustments for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -84.<box>(1261,259),(1651,321)</box>"
+      },
+      {
+        "from": "user",
+        "value": "What is the value of defined benefit and other postretirement plans adjustments for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -33.<box>(1901,259),(2155,321)</box>"
+      },
+      {
+        "from": "user",
+        "value": "What is the value of other with respect to other comprehensive income, net of income taxes for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -7.<box>(1261,321),(1651,384)</box>"
+      },
+      {
+        "from": "user",
+        "value": "What is the value of other with respect to other comprehensive income, net of income taxes for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2.<box>(1651,321),(1901,384)</box>"
+      },
+      {
+        "from": "user",
+        "value": "What is the value of other with respect to other comprehensive income, net of income taxes for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -3.<box>(1901,321),(2155,384)</box>"
+      },
+      {
+        "from": "user",
+        "value": "What is the value of other comprehensive income (loss), net of income taxes for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -91.<box>(1261,384),(1651,446)</box>"
+      },
+      {
+        "from": "user",
+        "value": "What is the value of other comprehensive income (loss), net of income taxes for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2.<box>(1651,384),(1901,446)</box>"
+      },
+      {
+        "from": "user",
+        "value": "What is the value of other comprehensive income (loss), net of income taxes for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -36.<box>(1901,384),(2155,446)</box>"
+      },
+      {
+        "from": "user",
+        "value": "What is the dollar value (millions of dollars) of comprehensive income for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 3410.<box>(1261,446),(1651,509)</box>"
+      },
+      {
+        "from": "user",
+        "value": "What is the dollar value (millions of dollars) of comprehensive income for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2137.<box>(1651,446),(1901,509)</box>"
+      },
+      {
+        "from": "user",
+        "value": "What is the dollar value (millions of dollars) of comprehensive income for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2609.<box>(1901,446),(2155,509)</box>"
+      },
+      {
+        "from": "user",
+        "value": "What is the value of comprehensive income attributable to noncontrolling interest for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -1.<box>(1261,509),(1651,571)</box>"
+      },
+      {
+        "from": "user",
+        "value": "What is the value of comprehensive income attributable to noncontrolling interest for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -10.<box>(1651,509),(1901,571)</box>"
+      },
+      {
+        "from": "user",
+        "value": "What is the value of comprehensive income attributable to noncontrolling interest for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -10.<box>(1901,509),(2155,571)</box>"
+      },
+      {
+        "from": "user",
+        "value": "What is the dollar value (millions of dollars) of comprehensive income attributable to company shareholders for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 3409.<box>(1261,571),(1651,634)</box>"
+      },
+      {
+        "from": "user",
+        "value": "What is the dollar value (millions of dollars) of comprehensive income attributable to company shareholders for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2127.<box>(1651,571),(1901,634)</box>"
+      },
+      {
+        "from": "user",
+        "value": "What is the dollar value (millions of dollars) of comprehensive income attributable to company shareholders for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2599.<box>(1901,571),(2155,634)</box>"
+      }
+    ]
+  },
+  {
+    "id": "complex_ratio_questions_across_years",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<img>tableimage.png</img>"
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of net income for the year 2014 to the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.64."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of net income for the year 2014 to the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.32."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of net income for the year 2013 to the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.61."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of net income for the year 2013 to the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.81."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of net income for the year 2012 to the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.76."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of net income for the year 2012 to the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.24."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of defined benefit and other postretirement plans adjustments for the year 2014 to the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is nan."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of defined benefit and other postretirement plans adjustments for the year 2014 to the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2.55."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of defined benefit and other postretirement plans adjustments for the year 2012 to the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.39."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of defined benefit and other postretirement plans adjustments for the year 2012 to the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is nan."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of other with respect to other comprehensive income, net of income taxes for the year 2014 to the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -3.5."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of other with respect to other comprehensive income, net of income taxes for the year 2014 to the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2.33."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of other with respect to other comprehensive income, net of income taxes for the year 2013 to the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -0.29."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of other with respect to other comprehensive income, net of income taxes for the year 2013 to the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -0.67."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of other with respect to other comprehensive income, net of income taxes for the year 2012 to the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.43."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of other with respect to other comprehensive income, net of income taxes for the year 2012 to the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -1.5."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of other comprehensive income (loss), net of income taxes for the year 2014 to the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -45.5."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of other comprehensive income (loss), net of income taxes for the year 2014 to the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2.53."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of other comprehensive income (loss), net of income taxes for the year 2013 to the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -0.02."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of other comprehensive income (loss), net of income taxes for the year 2013 to the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -0.06."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of other comprehensive income (loss), net of income taxes for the year 2012 to the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.4."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of other comprehensive income (loss), net of income taxes for the year 2012 to the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -18.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of comprehensive income for the year 2014 to the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.6."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of comprehensive income for the year 2014 to the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.31."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of comprehensive income for the year 2013 to the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.63."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of comprehensive income for the year 2013 to the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.82."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of comprehensive income for the year 2012 to the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.77."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of comprehensive income for the year 2012 to the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.22."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of comprehensive income attributable to noncontrolling interest for the year 2014 to the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.1."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of comprehensive income attributable to noncontrolling interest for the year 2014 to the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.1."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of comprehensive income attributable to noncontrolling interest for the year 2013 to the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 10.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of comprehensive income attributable to noncontrolling interest for the year 2013 to the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of comprehensive income attributable to noncontrolling interest for the year 2012 to the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 10.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of comprehensive income attributable to noncontrolling interest for the year 2012 to the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of comprehensive income attributable to company shareholders for the year 2014 to the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.6."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of comprehensive income attributable to company shareholders for the year 2014 to the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.31."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of comprehensive income attributable to company shareholders for the year 2013 to the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.62."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of comprehensive income attributable to company shareholders for the year 2013 to the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.82."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of comprehensive income attributable to company shareholders for the year 2012 to the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.76."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of comprehensive income attributable to company shareholders for the year 2012 to the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.22."
+      }
+    ]
+  },
+  {
+    "id": "complex_ratio_questions_across_rows_of_same_columns",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<img>tableimage.png</img>"
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of (net income) to (comprehensive income for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.03."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of (net income) to (comprehensive income attributable to company shareholders for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.03."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of (net income) to (comprehensive income for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of (net income) to (comprehensive income attributable to company shareholders for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of (net income) to (comprehensive income for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.01."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of (net income) to (comprehensive income attributable to company shareholders for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.02."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (defined benefit and other postretirement plans adjustments) to (other with respect to other comprehensive income, net of income taxes for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 12.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (defined benefit and other postretirement plans adjustments) to (other comprehensive income (loss), net of income taxes for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.92."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (defined benefit and other postretirement plans adjustments) to (comprehensive income attributable to noncontrolling interest for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 84.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (defined benefit and other postretirement plans adjustments) to (other with respect to other comprehensive income, net of income taxes for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 11.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (defined benefit and other postretirement plans adjustments) to (other comprehensive income (loss), net of income taxes for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.92."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (defined benefit and other postretirement plans adjustments) to (comprehensive income attributable to noncontrolling interest for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 3.3."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (other with respect to other comprehensive income, net of income taxes) to (defined benefit and other postretirement plans adjustments for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.08."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (other with respect to other comprehensive income, net of income taxes) to (other comprehensive income (loss), net of income taxes for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.08."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (other with respect to other comprehensive income, net of income taxes) to (comprehensive income attributable to noncontrolling interest for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 7.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (other with respect to other comprehensive income, net of income taxes) to (defined benefit and other postretirement plans adjustments for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is nan."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (other with respect to other comprehensive income, net of income taxes) to (other comprehensive income (loss), net of income taxes for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (other with respect to other comprehensive income, net of income taxes) to (comprehensive income attributable to noncontrolling interest for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -0.2."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (other with respect to other comprehensive income, net of income taxes) to (defined benefit and other postretirement plans adjustments for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.09."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (other with respect to other comprehensive income, net of income taxes) to (other comprehensive income (loss), net of income taxes for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.08."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (other with respect to other comprehensive income, net of income taxes) to (comprehensive income attributable to noncontrolling interest for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.3."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (other comprehensive income (loss), net of income taxes) to (defined benefit and other postretirement plans adjustments for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.08."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (other comprehensive income (loss), net of income taxes) to (other with respect to other comprehensive income, net of income taxes for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 13.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (other comprehensive income (loss), net of income taxes) to (comprehensive income attributable to noncontrolling interest for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 91.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (other comprehensive income (loss), net of income taxes) to (defined benefit and other postretirement plans adjustments for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is nan."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (other comprehensive income (loss), net of income taxes) to (other with respect to other comprehensive income, net of income taxes for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (other comprehensive income (loss), net of income taxes) to (comprehensive income attributable to noncontrolling interest for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -0.2."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (other comprehensive income (loss), net of income taxes) to (defined benefit and other postretirement plans adjustments for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.09."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (other comprehensive income (loss), net of income taxes) to (other with respect to other comprehensive income, net of income taxes for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 12.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (other comprehensive income (loss), net of income taxes) to (comprehensive income attributable to noncontrolling interest for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 3.6."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of (comprehensive income) to (net income for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.97."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of (comprehensive income) to (comprehensive income attributable to company shareholders for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of (comprehensive income) to (net income for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of (comprehensive income) to (comprehensive income attributable to company shareholders for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of (comprehensive income) to (net income for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.99."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of (comprehensive income) to (comprehensive income attributable to company shareholders for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (comprehensive income attributable to noncontrolling interest) to (defined benefit and other postretirement plans adjustments for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.01."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (comprehensive income attributable to noncontrolling interest) to (other with respect to other comprehensive income, net of income taxes for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.14."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (comprehensive income attributable to noncontrolling interest) to (other comprehensive income (loss), net of income taxes for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.01."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (comprehensive income attributable to noncontrolling interest) to (defined benefit and other postretirement plans adjustments for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is nan."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (comprehensive income attributable to noncontrolling interest) to (other with respect to other comprehensive income, net of income taxes for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -5.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (comprehensive income attributable to noncontrolling interest) to (other comprehensive income (loss), net of income taxes for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -5.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (comprehensive income attributable to noncontrolling interest) to (defined benefit and other postretirement plans adjustments for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.3."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (comprehensive income attributable to noncontrolling interest) to (other with respect to other comprehensive income, net of income taxes for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 3.33."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of value of (comprehensive income attributable to noncontrolling interest) to (other comprehensive income (loss), net of income taxes for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.28."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of (comprehensive income attributable to company shareholders) to (net income for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.97."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of (comprehensive income attributable to company shareholders) to (comprehensive income for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of (comprehensive income attributable to company shareholders) to (net income for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of (comprehensive income attributable to company shareholders) to (comprehensive income for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of (comprehensive income attributable to company shareholders) to (net income for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 0.98."
+      },
+      {
+        "from": "user",
+        "value": "What is the ratio of dollar value of (comprehensive income attributable to company shareholders) to (comprehensive income for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1.0."
+      }
+    ]
+  },
+  {
+    "id": "aggregated_complex_questions_across_all_years",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<img>tableimage.png</img>"
+      },
+      {
+        "from": "user",
+        "value": "What is the minimum value of net income across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2135.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the maximum value of net income across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 3501.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the average value of net income across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2760.33."
+      },
+      {
+        "from": "user",
+        "value": "What is the cumulative value of net income across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 8281.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the median value of net income across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2645.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the minimum value of other with respect to other comprehensive income, net of income taxes across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -7.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the maximum value of other with respect to other comprehensive income, net of income taxes across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the average value of other with respect to other comprehensive income, net of income taxes across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -2.67."
+      },
+      {
+        "from": "user",
+        "value": "What is the cumulative value of other with respect to other comprehensive income, net of income taxes across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -8.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the median value of other with respect to other comprehensive income, net of income taxes across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -3.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the minimum value of other comprehensive income (loss), net of income taxes across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -91.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the maximum value of other comprehensive income (loss), net of income taxes across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the average value of other comprehensive income (loss), net of income taxes across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -41.67."
+      },
+      {
+        "from": "user",
+        "value": "What is the cumulative value of other comprehensive income (loss), net of income taxes across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -125.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the median value of other comprehensive income (loss), net of income taxes across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -36.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the minimum value of comprehensive income across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2137.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the maximum value of comprehensive income across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 3410.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the average value of comprehensive income across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2718.67."
+      },
+      {
+        "from": "user",
+        "value": "What is the cumulative value of comprehensive income across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 8156.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the median value of comprehensive income across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2609.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the minimum value of comprehensive income attributable to noncontrolling interest across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -10.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the maximum value of comprehensive income attributable to noncontrolling interest across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -1.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the average value of comprehensive income attributable to noncontrolling interest across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -7.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the cumulative value of comprehensive income attributable to noncontrolling interest across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -21.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the median value of comprehensive income attributable to noncontrolling interest across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -10.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the minimum value of comprehensive income attributable to company shareholders across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2127.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the maximum value of comprehensive income attributable to company shareholders across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 3409.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the average value of comprehensive income attributable to company shareholders across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2711.67."
+      },
+      {
+        "from": "user",
+        "value": "What is the cumulative value of comprehensive income attributable to company shareholders across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 8135.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the median value of comprehensive income attributable to company shareholders across years (2014, 2013, 2012)?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2599.0."
+      }
+    ]
+  },
+  {
+    "id": "aggregated_complex_questions_across_row_sum_groupings_of_same_columns",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<img>tableimage.png</img>"
+      },
+      {
+        "from": "user",
+        "value": "What is the minimum value across (defined benefit and other postretirement plans adjustments, other with respect to other comprehensive income, net of income taxes), contributing towards other comprehensive income (loss), net of income taxes for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -84.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the maximum value across (defined benefit and other postretirement plans adjustments, other with respect to other comprehensive income, net of income taxes), contributing towards other comprehensive income (loss), net of income taxes for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -7.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the average value across (defined benefit and other postretirement plans adjustments, other with respect to other comprehensive income, net of income taxes), contributing towards other comprehensive income (loss), net of income taxes for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -45.5."
+      },
+      {
+        "from": "user",
+        "value": "What is the cumulative value across (defined benefit and other postretirement plans adjustments, other with respect to other comprehensive income, net of income taxes), contributing towards other comprehensive income (loss), net of income taxes for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -91.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the median value across (defined benefit and other postretirement plans adjustments, other with respect to other comprehensive income, net of income taxes), contributing towards other comprehensive income (loss), net of income taxes for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -45.5."
+      },
+      {
+        "from": "user",
+        "value": "What is the minimum value across (comprehensive income, comprehensive income attributable to noncontrolling interest), contributing towards comprehensive income attributable to company shareholders for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -1.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the maximum value across (comprehensive income, comprehensive income attributable to noncontrolling interest), contributing towards comprehensive income attributable to company shareholders for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 3410.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the average value across (comprehensive income, comprehensive income attributable to noncontrolling interest), contributing towards comprehensive income attributable to company shareholders for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1704.5."
+      },
+      {
+        "from": "user",
+        "value": "What is the cumulative value across (comprehensive income, comprehensive income attributable to noncontrolling interest), contributing towards comprehensive income attributable to company shareholders for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 3409.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the median value across (comprehensive income, comprehensive income attributable to noncontrolling interest), contributing towards comprehensive income attributable to company shareholders for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1704.5."
+      },
+      {
+        "from": "user",
+        "value": "What is the minimum value across (comprehensive income, comprehensive income attributable to noncontrolling interest), contributing towards comprehensive income attributable to company shareholders for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -10.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the maximum value across (comprehensive income, comprehensive income attributable to noncontrolling interest), contributing towards comprehensive income attributable to company shareholders for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2137.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the average value across (comprehensive income, comprehensive income attributable to noncontrolling interest), contributing towards comprehensive income attributable to company shareholders for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1063.5."
+      },
+      {
+        "from": "user",
+        "value": "What is the cumulative value across (comprehensive income, comprehensive income attributable to noncontrolling interest), contributing towards comprehensive income attributable to company shareholders for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2127.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the median value across (comprehensive income, comprehensive income attributable to noncontrolling interest), contributing towards comprehensive income attributable to company shareholders for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1063.5."
+      },
+      {
+        "from": "user",
+        "value": "What is the minimum value across (defined benefit and other postretirement plans adjustments, other with respect to other comprehensive income, net of income taxes), contributing towards other comprehensive income (loss), net of income taxes for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -33.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the maximum value across (defined benefit and other postretirement plans adjustments, other with respect to other comprehensive income, net of income taxes), contributing towards other comprehensive income (loss), net of income taxes for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -3.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the average value across (defined benefit and other postretirement plans adjustments, other with respect to other comprehensive income, net of income taxes), contributing towards other comprehensive income (loss), net of income taxes for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -18.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the cumulative value across (defined benefit and other postretirement plans adjustments, other with respect to other comprehensive income, net of income taxes), contributing towards other comprehensive income (loss), net of income taxes for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -36.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the median value across (defined benefit and other postretirement plans adjustments, other with respect to other comprehensive income, net of income taxes), contributing towards other comprehensive income (loss), net of income taxes for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -18.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the minimum value across (comprehensive income, comprehensive income attributable to noncontrolling interest), contributing towards comprehensive income attributable to company shareholders for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -10.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the maximum value across (comprehensive income, comprehensive income attributable to noncontrolling interest), contributing towards comprehensive income attributable to company shareholders for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2609.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the average value across (comprehensive income, comprehensive income attributable to noncontrolling interest), contributing towards comprehensive income attributable to company shareholders for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1299.5."
+      },
+      {
+        "from": "user",
+        "value": "What is the cumulative value across (comprehensive income, comprehensive income attributable to noncontrolling interest), contributing towards comprehensive income attributable to company shareholders for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2599.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the median value across (comprehensive income, comprehensive income attributable to noncontrolling interest), contributing towards comprehensive income attributable to company shareholders for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1299.5."
+      }
+    ]
+  },
+  {
+    "id": "num_aggregated_complex_questions_without_components_across_row_sum_groupings_of_same_columns",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<img>tableimage.png</img>"
+      },
+      {
+        "from": "user",
+        "value": "What is the minimum value across all factors contributing towards other comprehensive income (loss), net of income taxes for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -84.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the maximum value across all factors contributing towards other comprehensive income (loss), net of income taxes for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -7.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the average value across all factors contributing towards other comprehensive income (loss), net of income taxes for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -45.5."
+      },
+      {
+        "from": "user",
+        "value": "What is the cumulative value across all factors contributing towards other comprehensive income (loss), net of income taxes for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -91.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the median value across all factors contributing towards other comprehensive income (loss), net of income taxes for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -45.5."
+      },
+      {
+        "from": "user",
+        "value": "What is the minimum value across all factors contributing towards comprehensive income attributable to company shareholders for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -1.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the maximum value across all factors contributing towards comprehensive income attributable to company shareholders for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 3410.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the average value across all factors contributing towards comprehensive income attributable to company shareholders for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1704.5."
+      },
+      {
+        "from": "user",
+        "value": "What is the cumulative value across all factors contributing towards comprehensive income attributable to company shareholders for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 3409.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the median value across all factors contributing towards comprehensive income attributable to company shareholders for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1704.5."
+      },
+      {
+        "from": "user",
+        "value": "What is the minimum value across all factors contributing towards comprehensive income attributable to company shareholders for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -10.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the maximum value across all factors contributing towards comprehensive income attributable to company shareholders for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2137.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the average value across all factors contributing towards comprehensive income attributable to company shareholders for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1063.5."
+      },
+      {
+        "from": "user",
+        "value": "What is the cumulative value across all factors contributing towards comprehensive income attributable to company shareholders for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2127.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the median value across all factors contributing towards comprehensive income attributable to company shareholders for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1063.5."
+      },
+      {
+        "from": "user",
+        "value": "What is the minimum value across all factors contributing towards other comprehensive income (loss), net of income taxes for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -33.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the maximum value across all factors contributing towards other comprehensive income (loss), net of income taxes for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -3.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the average value across all factors contributing towards other comprehensive income (loss), net of income taxes for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -18.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the cumulative value across all factors contributing towards other comprehensive income (loss), net of income taxes for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -36.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the median value across all factors contributing towards other comprehensive income (loss), net of income taxes for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -18.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the minimum value across all factors contributing towards comprehensive income attributable to company shareholders for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -10.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the maximum value across all factors contributing towards comprehensive income attributable to company shareholders for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2609.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the average value across all factors contributing towards comprehensive income attributable to company shareholders for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1299.5."
+      },
+      {
+        "from": "user",
+        "value": "What is the cumulative value across all factors contributing towards comprehensive income attributable to company shareholders for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2599.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the median value across all factors contributing towards comprehensive income attributable to company shareholders for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 1299.5."
+      }
+    ]
+  },
+  {
+    "id": "num_aggregated_complex_kv_pair_questions_without_components_across_row_sum_groupings_of_same_columns",
+    "conversations": [
+      {
+        "from": "user",
+        "value": "<img>tableimage.png</img>"
+      },
+      {
+        "from": "user",
+        "value": "What is the component and the corresponding minimum value across all factors contributing towards other comprehensive income (loss), net of income taxes for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -84.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the component and the corresponding maximum value across all factors contributing towards other comprehensive income (loss), net of income taxes for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -7.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the component and the corresponding minimum value across all factors contributing towards comprehensive income attributable to company shareholders for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -1.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the component and the corresponding maximum value across all factors contributing towards comprehensive income attributable to company shareholders for the year 2014?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 3410.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the component and the corresponding minimum value across all factors contributing towards comprehensive income attributable to company shareholders for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -10.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the component and the corresponding maximum value across all factors contributing towards comprehensive income attributable to company shareholders for the year 2013?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2137.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the component and the corresponding minimum value across all factors contributing towards other comprehensive income (loss), net of income taxes for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -33.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the component and the corresponding maximum value across all factors contributing towards other comprehensive income (loss), net of income taxes for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -3.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the component and the corresponding minimum value across all factors contributing towards comprehensive income attributable to company shareholders for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is -10.0."
+      },
+      {
+        "from": "user",
+        "value": "What is the component and the corresponding maximum value across all factors contributing towards comprehensive income attributable to company shareholders for the year 2012?"
+      },
+      {
+        "from": "assistant",
+        "value": "The answer is 2609.0."
+      }
+    ]
+  }
+]

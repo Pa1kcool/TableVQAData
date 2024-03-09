@@ -19,7 +19,7 @@ from accelerate.utils import DistributedType
 
 IGNORE_TOKEN_ID = LabelSmoother.ignore_index
 
-cache_dir="/ssd_scratch/cvit/pavankumar"
+cache_dir="../../data/cache"
 @dataclass
 class ModelArguments:
     model_name_or_path: Optional[str] = field(default="Qwen/Qwen-7B")
@@ -38,7 +38,7 @@ class DataArguments:
 
 @dataclass
 class TrainingArguments(transformers.TrainingArguments):
-    cache_dir: Optional[str] = field(default="/ssd_scratch/cvit/pavankumar")
+    cache_dir: Optional[str] = field(default="../../data/cache")
     optim: str = field(default="adamw_torch")
     model_max_length: int = field(
         default=8192,

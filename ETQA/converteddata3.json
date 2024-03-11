@@ -173,7 +173,7 @@
     "conversations": [
       {
         "from": "user",
-        "value": "<img>tableimage.png</img>"
+        "value": "<img>../ETQA/tableimage.png</img>"
       },
       {
         "from": "user",
@@ -502,7 +502,7 @@
     "conversations": [
       {
         "from": "user",
-        "value": "<img>tableimage.png</img>"
+        "value": "<img>../ETQA/tableimage.png</img>"
       },
       {
         "from": "user",
@@ -919,7 +919,7 @@
     "conversations": [
       {
         "from": "user",
-        "value": "<img>tableimage.png</img>"
+        "value": "<img>../ETQA/tableimage.png</img>"
       },
       {
         "from": "user",
@@ -1168,7 +1168,7 @@
     "conversations": [
       {
         "from": "user",
-        "value": "<img>tableimage.png</img>"
+        "value": "<img>../ETQA/tableimage.png</img>"
       },
       {
         "from": "user",
@@ -1377,7 +1377,7 @@
     "conversations": [
       {
         "from": "user",
-        "value": "<img>tableimage.png</img>"
+        "value": "<img>../ETQA/tableimage.png</img>"
       },
       {
         "from": "user",
@@ -1586,7 +1586,7 @@
     "conversations": [
       {
         "from": "user",
-        "value": "<img>tableimage.png</img>"
+        "value": "<img>../ETQA/tableimage.png</img>"
       },
       {
         "from": "user",
